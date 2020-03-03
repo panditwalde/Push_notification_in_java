@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "javainuse.rabbitmq.queue",
+    "type": "java.lang.String",
+    "description": "A description for 'javainuse.rabbitmq.queue'"
+  },
+  {
+    "name": "javainuse.rabbitmq.routingkey",
+    "type": "java.lang.String",
+    "description": "A description for 'javainuse.rabbitmq.routingkey'"
+  },
+  {
+    "name": "javainuse.rabbitmq.exchange",
+    "type": "java.lang.String",
+    "description": "A description for 'javainuse.rabbitmq.exchange'"
+  },
+  {
+    "name": "spring.rabbitmq.listener.auto-startup",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.rabbitmq.listener.auto-startup'"
+  }
+]}
